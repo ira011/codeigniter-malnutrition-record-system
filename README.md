@@ -1,3 +1,5 @@
+[Watch the demo video](./media/demo.mkv)
+
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
